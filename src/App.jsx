@@ -38,9 +38,9 @@ function App() {
           </div>
 
           <div className="text-base sm:text-xl mt-4 sm:m-7 text-justify">
-            Here’s how it works: <br /><br />
+            
             Dive into a journey that blends the essence of time with unique perspectives. <br />
-            <br /> Share a photo of the answer on Instagram and tag us
+            <br />Here’s how it works: <br /><br /> Share a photo of the answer on Instagram and tag us
             @tedxsiddaganga. <br />
             <br />
             🎁 Stand a chance to win amazing prizes! <br />
