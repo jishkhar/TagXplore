@@ -10,11 +10,11 @@ function App() {
           <div className="mb-4 sm:mb-0">
             <img src={logo} alt="tedx_logo" className="w-[20vh] sm:w-[35vh]" />
           </div>
-          <div className="hidden sm:block">
+          {/* <div className="hidden sm:block">
             <p className="text-red-600 text-xl sm:text-xl text-center sm:pt-5 sm:pr-10">
               KRONOSPECT
             </p>
-          </div>
+          </div> */}
         </nav>
 
         <main className="flex flex-col items-center w-[90%] sm:w-[60%] mx-auto text-center">
@@ -49,9 +49,9 @@ function App() {
             The last date to participate in this event is December 20th.
           </div>
         </main>
-
+        
         <div className="flex flex-col sm:flex-row gap-4 sm:gap-2 items-center sm:ml-36 py-10 px-4">
-          <div className="p-8 h-fit sm:h-fit w-full sm:w-[30%] bg-white text-black text-lg">
+          <div className="p-8 h-fit sm:h-[81vh] w-full sm:w-[30%] bg-white text-black text-lg">
             <span className="text-2xl">1. I</span>n a realm where stones and
             steel are framed, I stand untouched, yet widely acclaimed. Amidst
             drafts and plans for earthly design, I hold a flute, with grace
@@ -70,7 +70,7 @@ function App() {
               (Post from a different angle)
             </div>
           </div>
-          <div className="p-8 h-fit sm:h-fit w-full sm:w-[30%] bg-white text-black text-lg">
+          <div className="p-8 h-fit sm:h-[81vh] w-full sm:w-[30%] bg-white text-black text-lg">
             <span className="text-2xl">3. I</span> carry no books, no desks in
             sight, Yet I connect with speed and might. Words on paper, parcels
             in hand, I bridge the gap across the land. A quiet corner, yet
