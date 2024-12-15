@@ -1,6 +1,6 @@
 import "./App.css";
 import logo from "./assets/logo.png";
-import im from "./assets/img.png";
+import im from "./assets/img (1).png";
 
 function App() {
   return (
@@ -51,7 +51,7 @@ function App() {
         </main>
         
         <div className="flex flex-col sm:flex-row gap-4 sm:gap-2 items-center sm:ml-36 py-10 px-4">
-          <div className="p-8 h-fit sm:h-[81vh] w-full sm:w-[30%] bg-white text-black text-lg">
+          <div className="p-8 h-fit sm:h-[50vh] w-full sm:w-[30%] bg-white text-black text-lg">
             <span className="text-2xl">1. I</span>n a realm where stones and
             steel are framed, I stand untouched, yet widely acclaimed. Amidst
             drafts and plans for earthly design, I hold a flute, with grace
@@ -70,7 +70,7 @@ function App() {
               (Post from a different angle)
             </div>
           </div>
-          <div className="p-8 h-fit sm:h-[81vh] w-full sm:w-[30%] bg-white text-black text-lg">
+          <div className="p-8 h-fit sm:h-[50vh] w-full sm:w-[30%] bg-white text-black text-lg">
             <span className="text-2xl">3. I</span> carry no books, no desks in
             sight, Yet I connect with speed and might. Words on paper, parcels
             in hand, I bridge the gap across the land. A quiet corner, yet
