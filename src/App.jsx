@@ -24,7 +24,7 @@ function App() {
             </span>{" "}
             <br />
             Where Time Meets Perspective
-          </div>src/App.jsx public/img.png
+          </div>
 
           <br /><br />
 
