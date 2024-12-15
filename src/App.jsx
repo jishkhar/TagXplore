@@ -46,7 +46,7 @@ function App() {
             🎁 Stand a chance to win amazing prizes! <br />
             Get ready to explore, tag, and win! 🌟
             <br /><br />
-            The last date for this event is December 20th.
+            The last date to participate in this event is December 20th.
           </div>
         </main>
 
