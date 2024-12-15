@@ -67,7 +67,7 @@ function App() {
               Where Am I ??? <br />
             </div>
             <div className="text-black text-sm">
-              (Post from a different angle)
+              (Post the complete image.)
             </div>
           </div>
           <div className="p-8 h-fit sm:h-[50vh] w-full sm:w-[30%] bg-white text-black text-lg">
