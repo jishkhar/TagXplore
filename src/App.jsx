@@ -1,6 +1,7 @@
 import "./App.css";
 import logo from "./assets/logo.png";
 import im from "./assets/img (1).png";
+import { Analytics } from "@vercel/analytics/react"
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
           <div className="pt-8 text-3xl sm:text-4xl">
             <span className="text-5xl sm:text-6xl">
               KRONO<span className="text-red-600">SPECT</span>
+              <Analytics />
             </span>{" "}
             <br />
             Where Time Meets Perspective
